@@ -1,0 +1,17 @@
+<package>
+  <description brief="ros_aucom_connection">
+
+    ros_aucom_connection
+
+  </description>
+  <author>Jeremiah Via</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/ros_aucom_connection</url>
+  <depend package="std_msgs"/>
+  <depend package="roslisp"/>
+  <depend package="rospy"/>
+  <depend package="rosh"/>
+</package>
+
+
